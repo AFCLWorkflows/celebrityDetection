@@ -1,0 +1,13 @@
+{
+  "imagepaths": [
+    "<cloud-storage>/images/",
+    "<cloud-storage>/images/"
+  ],
+  "destinationPath": "<cloud-storage>/celebrities/",
+  "aws_access_key_id": "TODO",
+  "aws_secret_key": "TODO",
+  "aws_session_token": "TODO",
+  "gcp_project_id": "TODO",
+  "gcp_private_key": "TODO",
+  "gcp_client_email": "TODO"
+}
